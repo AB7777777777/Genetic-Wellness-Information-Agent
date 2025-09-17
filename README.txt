@@ -20,7 +20,8 @@ Unlike FAQ-based agents, this one leverages the foundational Large Language Mode
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AB7777777777/genetic-wellness-agent.git
+   git clone https://github.com/AB7777777777/genetic-wellness-Information-agent.git
    cd genetic-wellness-agent
 2. pip install -r requirements.txt
 3. After installing the modules run the program using the command adk web
+
